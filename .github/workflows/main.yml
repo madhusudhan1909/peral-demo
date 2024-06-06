@@ -42,5 +42,4 @@ jobs:
       working-directory: ./terraform
       env:
         AWS_ACCESS_KEY_ID: ${{ AKIAZI2LGFHW4G4VKQWJ }}
-        AWS_SECRET_ACCESS_KEY: ${{ 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
- }}
+        AWS_SECRET_ACCESS_KEY: ${{ ZtOZnLijcpbtt+QVDCmPD2H2X8qABvhyZWICKd7Y }}
