@@ -26,6 +26,7 @@ resource "aws_ecs_task_definition" "example" {
   }])
 }
 
+
 resource "aws_iam_role" "ecs_task_execution_role" {
   name = "ecsTaskExecutionRole"
 
